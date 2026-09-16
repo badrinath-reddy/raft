@@ -1,2 +1,2 @@
-# wal
-Write ahead log with Go
+# Raft
+Raft with Go
